@@ -1406,7 +1406,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-01",
-    category: "民法",
+    category: "権利関係",
     title: "契約の成立・意思表示の到達主義",
     subtitle: "申込みと承諾の合致・口約束でも成立",
     difficulty: "基礎",
@@ -1422,7 +1422,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-02",
-    category: "民法",
+    category: "権利関係",
     title: "有効・無効・取消しの違い",
     subtitle: "公序良俗違反は無効・取消しは遡及効あり",
     difficulty: "基礎",
@@ -1438,7 +1438,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-03",
-    category: "民法",
+    category: "権利関係",
     title: "停止条件",
     subtitle: "条件成就まで効力は発生しない",
     difficulty: "応用",
@@ -1454,7 +1454,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-04",
-    category: "民法",
+    category: "権利関係",
     title: "期間の計算（初日不算入・暦計算）",
     subtitle: "初日不算入の原則と月末翌日ルール",
     difficulty: "応用",
@@ -1473,7 +1473,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-05",
-    category: "民法",
+    category: "権利関係",
     title: "未成年者制度の基本",
     subtitle: "同意・取消し・単独でできる行為",
     difficulty: "基礎",
@@ -1490,7 +1490,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-06",
-    category: "民法",
+    category: "権利関係",
     title: "成年被後見人・被保佐人・被補助人の比較",
     subtitle: "保護者の権限と本人ができること",
     difficulty: "応用",
@@ -1509,7 +1509,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-07",
-    category: "民法",
+    category: "権利関係",
     title: "保佐人の同意を要する重要財産行為",
     subtitle: "13条の8項目と「5年・3年を超える」の罠",
     difficulty: "応用",
@@ -1526,7 +1526,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-08",
-    category: "民法",
+    category: "権利関係",
     title: "取引の相手方の保護（催告権・詐術・時効・法定追認）",
     subtitle: "不安定な立場にある相手方を守る4つの制度",
     difficulty: "応用",
@@ -1544,7 +1544,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-09",
-    category: "民法",
+    category: "権利関係",
     title: "不在者の財産管理・失踪宣告",
     subtitle: "7年・善意の当事者双方の要件",
     difficulty: "応用",
@@ -1566,7 +1566,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-10",
-    category: "民法",
+    category: "権利関係",
     title: "詐欺・強迫の比較",
     subtitle: "取消しと第三者対抗の決定的な違い",
     difficulty: "応用",
@@ -1582,7 +1582,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-11",
-    category: "民法",
+    category: "権利関係",
     title: "通謀虚偽表示と第三者保護",
     subtitle: "転得者C・Dがいる場合の善意・悪意の組合せ",
     difficulty: "応用",
@@ -1599,7 +1599,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-12",
-    category: "民法",
+    category: "権利関係",
     title: "心裡留保・錯誤",
     subtitle: "有効・無効・取消しの条件と第三者への効果",
     difficulty: "応用",
@@ -1621,7 +1621,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-13",
-    category: "民法",
+    category: "権利関係",
     title: "代理の要件・種類・代理権の範囲",
     subtitle: "顕名・任意代理と法定代理・権限の定めのない代理",
     difficulty: "基礎",
@@ -1638,7 +1638,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-14",
-    category: "民法",
+    category: "権利関係",
     title: "代理権の消滅・自己契約・双方代理・利益相反・濫用",
     subtitle: "無権代理とみなされる4つのケース",
     difficulty: "応用",
@@ -1655,7 +1655,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-15",
-    category: "民法",
+    category: "権利関係",
     title: "無権代理と相手方保護・表見代理",
     subtitle: "催告・取消し・責任追及・表見代理の要件比較",
     difficulty: "発展",
@@ -1677,7 +1677,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-16",
-    category: "民法",
+    category: "権利関係",
     title: "同時履行の抗弁権・債務不履行の3類型",
     subtitle: "履行遅滞・履行不能・不完全履行の要件と効果",
     difficulty: "基礎",
@@ -1695,7 +1695,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-17",
-    category: "民法",
+    category: "権利関係",
     title: "損害賠償の範囲・金銭債務の特則",
     subtitle: "予定・過失相殺・金銭債務は不可抗力でも免責なし",
     difficulty: "応用",
@@ -1713,7 +1713,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-18",
-    category: "民法",
+    category: "権利関係",
     title: "解除の方法・効果・第三者保護",
     subtitle: "催告解除と無催告解除・原状回復・解除前の第三者は登記要",
     difficulty: "応用",
@@ -1731,7 +1731,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-19",
-    category: "民法",
+    category: "権利関係",
     title: "手付の種類と解約手付による解除",
     subtitle: "倍返し・手付放棄・相手方の履行着手まで",
     difficulty: "応用",
@@ -1752,7 +1752,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-20",
-    category: "民法",
+    category: "権利関係",
     title: "危険負担",
     subtitle: "双方に帰責なき滅失で代金支払いを拒めるか",
     difficulty: "応用",
@@ -1772,7 +1772,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-21",
-    category: "民法",
+    category: "権利関係",
     title: "契約不適合責任（種類・品質・数量・権利）",
     subtitle: "追完請求・代金減額・損害賠償・解除と1年の期間制限",
     difficulty: "応用",
@@ -1797,7 +1797,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "minpo-22",
-    category: "民法",
+    category: "権利関係",
     title: "担保物権の性質と抵当権の基本",
     subtitle: "付従性・不可分性・随伴性・物上代位性",
     difficulty: "基礎",
@@ -1816,7 +1816,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-23",
-    category: "民法",
+    category: "権利関係",
     title: "抵当権の効力の範囲と法定地上権",
     subtitle: "付加一体物・従物・果実・法定地上権の成立要件",
     difficulty: "応用",
@@ -1835,7 +1835,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-24",
-    category: "民法",
+    category: "権利関係",
     title: "抵当権と賃貸借・第三取得者保護・根抵当権",
     subtitle: "明渡し猶予・代価弁済・抵当権消滅請求・根抵当権の特徴",
     difficulty: "発展",
@@ -1854,7 +1854,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-29",
-    category: "民法",
+    category: "権利関係",
     title: "物権変動の対抗要件と「第三者」の範囲",
     subtitle: "177条の第三者にあたる者・あたらない者",
     difficulty: "応用",
@@ -1873,7 +1873,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-30",
-    category: "民法",
+    category: "権利関係",
     title: "登記が必要な物権変動（解除・取消し・時効と第三者）",
     subtitle: "前後関係で対抗問題になるかどうかが変わる",
     difficulty: "発展",
@@ -1891,7 +1891,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-27",
-    category: "民法",
+    category: "権利関係",
     title: "連帯債務の効力（相対効と絶対効）",
     subtitle: "1人に生じた事由が他の連帯債務者に影響するか",
     difficulty: "応用",
@@ -1910,7 +1910,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-28",
-    category: "民法",
+    category: "権利関係",
     title: "保証債務と連帯保証の比較",
     subtitle: "付従性・補充性・分別の利益・保証人に生じた事由",
     difficulty: "応用",
@@ -1930,7 +1930,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-33",
-    category: "民法",
+    category: "権利関係",
     title: "債権譲渡の対抗要件",
     subtitle: "債務者への対抗・第三者への対抗・譲渡制限特約",
     difficulty: "応用",
@@ -1949,7 +1949,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-34",
-    category: "民法",
+    category: "権利関係",
     title: "弁済・弁済による代位",
     subtitle: "第三者弁済・受領権者の外観・弁済充当・代位",
     difficulty: "応用",
@@ -1967,7 +1967,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-35",
-    category: "民法",
+    category: "権利関係",
     title: "相殺の要件・禁止・効力",
     subtitle: "相殺適状の5要件と相殺できない場合",
     difficulty: "応用",
@@ -1985,7 +1985,7 @@ export const THEMES: Theme[] = [
       "相殺適状の5要件：①双方の債権が対立②有効に存在③同種の目的（金銭同士等）④双方が弁済期（ただし受働債権は未到来でも可）⑤性質が許す（抗弁権付の債権は自働債権にできない）。時効消滅した債権でも時効完成前に相殺適状にあれば自働債権として相殺可（508条）。【相殺禁止】①悪意による不法行為・生命身体侵害の損害賠償債権は受働債権にできない②差押え後に取得した債権は自働債権にできない（差押え前の取得なら可。差押え後でも差押え前の原因に基づく債権は原則可）。相殺は相手方への一方的意思表示で行い、効力は相殺適状時にさかのぼる。条件・期限を付けることはできない。",
   },
   {
-    category: "民法",
+    category: "権利関係",
     title: "不動産登記の仕組み・構成・公開",
     subtitle: "表題部・権利部・申請主義・共同申請の原則と例外",
     difficulty: "応用",
@@ -2004,7 +2004,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-32",
-    category: "民法",
+    category: "権利関係",
     title: "仮登記・合筆・登記識別情報",
     subtitle: "仮登記の目的・順位保全・合筆できない場合",
     difficulty: "発展",
@@ -2022,7 +2022,7 @@ export const THEMES: Theme[] = [
       "仮登記：対抗力はないが、後で本登記に改めたとき仮登記時の順位を保全できる。1号仮登記（物権変動は生じているが手続上の条件が欠けている）と2号仮登記（まだ物権変動が生じていない段階）がある。本登記の際に利害関係ある第三者の承諾が必要で、その者の登記は職権で抹消される。合筆できない場合：①所有者が異なる②所有権登記の有無が異なる③それぞれに所有権以外の権利に関する登記がある。ただし地役権の登記、または同一内容の抵当権等がある場合は例外で合筆可。登記識別情報（暗証番号のようなもの）は共同申請時に登記義務者が提供。同区間の優先関係は順位番号、別区間（甲区と乙区）の優先関係は受付番号で判断。",
   },
   {
-    category: "民法",
+    category: "権利関係",
     title: "抵当権の処分（譲渡・放棄・順位の譲渡・順位の放棄）",
     subtitle: "無担保債権者・後順位抵当権者への処分と配当計算",
     difficulty: "発展",
@@ -2039,7 +2039,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-26",
-    category: "民法",
+    category: "権利関係",
     title: "留置権・先取特権・質権",
     subtitle: "法定担保物権と約定担保物権の比較",
     difficulty: "応用",
@@ -2058,7 +2058,7 @@ export const THEMES: Theme[] = [
   // ── 賃貸借契約（民法）──
   {
     id: "minpo-36",
-    category: "民法",
+    category: "権利関係",
     title: "賃貸人の義務（修繕・費用償還）",
     subtitle: "修繕義務の範囲・賃借人による修繕・必要費と有益費の違い",
     difficulty: "基本",
@@ -2074,7 +2074,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-37",
-    category: "民法",
+    category: "権利関係",
     title: "賃借人の義務（賃料・原状回復）",
     subtitle: "後払い原則・通常損耗除外・原状回復義務の範囲",
     difficulty: "基本",
@@ -2088,7 +2088,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-38",
-    category: "民法",
+    category: "権利関係",
     title: "不動産賃借権の対抗要件と賃貸人地位の移転",
     subtitle: "登記による対抗・所有権移転時の賃貸人地位の承継",
     difficulty: "応用",
@@ -2104,7 +2104,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-39",
-    category: "民法",
+    category: "権利関係",
     title: "賃貸借の存続期間・更新・解約申入れ",
     subtitle: "最長50年・黙示の更新・期間なし解約申入れの効果",
     difficulty: "基本",
@@ -2120,7 +2120,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-40",
-    category: "民法",
+    category: "権利関係",
     title: "賃借権の譲渡・転貸借",
     subtitle: "承諾の要否・転借人の直接義務・合意解除の効果",
     difficulty: "応用",
@@ -2139,7 +2139,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-41",
-    category: "民法",
+    category: "権利関係",
     title: "敷金（返還・賃貸人変更・賃借人変更）",
     subtitle: "明渡しが先・賃貸人変更時の承継・賃借人変更時の不承継",
     difficulty: "応用",
@@ -2155,7 +2155,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-42",
-    category: "民法",
+    category: "権利関係",
     title: "賃貸借と使用貸借の比較",
     subtitle: "有償・無償の違いと修繕義務・対抗要件・終了事由・死亡の効果",
     difficulty: "応用",
@@ -2173,7 +2173,7 @@ export const THEMES: Theme[] = [
   // ── 借地権（借地借家法）──
   {
     id: "minpo-43",
-    category: "借地借家法",
+    category: "権利関係",
     title: "借地権の基本・存続期間・更新",
     subtitle: "30年最短・3種の更新・正当事由・更新後の期間",
     difficulty: "基本",
@@ -2192,7 +2192,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-44",
-    category: "借地借家法",
+    category: "権利関係",
     title: "借地上の建物の再築・借地権の譲渡転貸",
     subtitle: "承諾と期間延長・承諾擬制・裁判所許可",
     difficulty: "応用",
@@ -2209,7 +2209,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-45",
-    category: "借地借家法",
+    category: "権利関係",
     title: "建物買取請求権・借地権の対抗要件",
     subtitle: "時価買取・第三者の請求・建物登記による対抗・掲示の効力",
     difficulty: "応用",
@@ -2226,7 +2226,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-46",
-    category: "借地借家法",
+    category: "権利関係",
     title: "定期借地権の3種類",
     subtitle: "一般定期・事業用定期・建物譲渡特約付の比較",
     difficulty: "応用",
@@ -2244,7 +2244,7 @@ export const THEMES: Theme[] = [
   // ── 借家権（借地借家法）──
   {
     id: "minpo-47",
-    category: "借地借家法",
+    category: "権利関係",
     title: "借家権の存続期間・更新・解約申入れ",
     subtitle: "上限なし・1年未満は期間なし・正当事由と猶予期間",
     difficulty: "基本",
@@ -2262,7 +2262,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-48",
-    category: "借地借家法",
+    category: "権利関係",
     title: "造作買取請求権・借家権の対抗要件・転貸借",
     subtitle: "承諾得た造作の時価買取・引渡しによる対抗・転貸借終了の通知",
     difficulty: "応用",
@@ -2278,7 +2278,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-49",
-    category: "借地借家法",
+    category: "権利関係",
     title: "定期建物賃貸借",
     subtitle: "書面・事前説明・終了通知・中途解約・更新なし",
     difficulty: "応用",
@@ -2295,7 +2295,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-50",
-    category: "借地借家法",
+    category: "権利関係",
     title: "地代・家賃の増減額請求",
     subtitle: "経済事情変動による増減額・増額しない特約の効力・協議不調時の扱い",
     difficulty: "応用",
@@ -2313,7 +2313,7 @@ export const THEMES: Theme[] = [
   // ── 委任契約 ──
   {
     id: "minpo-51",
-    category: "民法",
+    category: "権利関係",
     title: "委任契約の義務と権利",
     subtitle: "善管注意義務・報告・報酬・費用償還",
     difficulty: "基本",
@@ -2331,7 +2331,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-52",
-    category: "民法",
+    category: "権利関係",
     title: "委任契約の終了事由",
     subtitle: "告知による解除・委任者死亡等による終了・将来効",
     difficulty: "基本",
@@ -2348,7 +2348,7 @@ export const THEMES: Theme[] = [
   // ── 請負契約 ──
   {
     id: "minpo-53",
-    category: "民法",
+    category: "権利関係",
     title: "請負契約の基本",
     subtitle: "仕事完成義務・報酬後払い・割合的報酬・注文者の解除権",
     difficulty: "基本",
@@ -2363,7 +2363,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-54",
-    category: "民法",
+    category: "権利関係",
     title: "請負人の担保責任",
     subtitle: "追完・減額・損害賠償・解除・期間制限・材料指示免責",
     difficulty: "応用",
@@ -2380,7 +2380,7 @@ export const THEMES: Theme[] = [
   // ── 贈与契約 ──
   {
     id: "minpo-55",
-    category: "民法",
+    category: "権利関係",
     title: "贈与契約",
     subtitle: "書面なし解除・履行済み除外・担保責任の原則と負担付贈与",
     difficulty: "基本",
@@ -2397,7 +2397,7 @@ export const THEMES: Theme[] = [
   // ── 時効 ──
   {
     id: "minpo-56",
-    category: "民法",
+    category: "権利関係",
     title: "取得時効",
     subtitle: "所有の意思・善意無過失10年・悪意20年・占有の承継と瑕疵引継ぎ",
     difficulty: "応用",
@@ -2415,7 +2415,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-57",
-    category: "民法",
+    category: "権利関係",
     title: "消滅時効",
     subtitle: "債権5年/10年・所有権は消滅しない・起算点・判決確定後10年",
     difficulty: "応用",
@@ -2432,7 +2432,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-58",
-    category: "民法",
+    category: "権利関係",
     title: "時効の完成猶予・更新・援用・利益の放棄",
     subtitle: "猶予事由と更新事由・援用権者・放棄は完成後のみ",
     difficulty: "応用",
@@ -2450,7 +2450,7 @@ export const THEMES: Theme[] = [
   // ── 相続 ──
   {
     id: "minpo-59",
-    category: "民法",
+    category: "権利関係",
     title: "法定相続人・法定相続分・代襲相続",
     subtitle: "3順位と配偶者・各相続分・代襲・再代襲の有無",
     difficulty: "基本",
@@ -2471,7 +2471,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-60",
-    category: "民法",
+    category: "権利関係",
     title: "相続の承認・放棄・欠格・廃除",
     subtitle: "3ヵ月の熟慮期間・限定承認・代襲との関係",
     difficulty: "応用",
@@ -2490,7 +2490,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-61",
-    category: "民法",
+    category: "権利関係",
     title: "遺言・遺留分",
     subtitle: "遺言の方式・能力・撤回・遺留分の割合と侵害額請求",
     difficulty: "応用",
@@ -2509,7 +2509,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-62",
-    category: "民法",
+    category: "権利関係",
     title: "遺産分割・配偶者居住権",
     subtitle: "協議分割・分割禁止・配偶者短期居住権・配偶者居住権",
     difficulty: "応用",
@@ -2528,7 +2528,7 @@ export const THEMES: Theme[] = [
   // ── 不法行為 ──
   {
     id: "minpo-63",
-    category: "民法",
+    category: "権利関係",
     title: "不法行為（一般・使用者責任・工作物責任）",
     subtitle: "故意過失・使用者の代位責任・工作物の占有者と所有者の責任",
     difficulty: "応用",
@@ -2547,7 +2547,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-64",
-    category: "民法",
+    category: "権利関係",
     title: "不法行為の消滅時効",
     subtitle: "3年/5年/20年・生命身体侵害の特則",
     difficulty: "基本",
@@ -2562,7 +2562,7 @@ export const THEMES: Theme[] = [
   // ── 所有権・共有 ──
   {
     id: "minpo-65",
-    category: "民法",
+    category: "権利関係",
     title: "相隣関係",
     subtitle: "袋地通行権・隣地使用権・ライフライン設備・竹木の枝根",
     difficulty: "応用",
@@ -2581,7 +2581,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-66",
-    category: "民法",
+    category: "権利関係",
     title: "共有の管理・変更・分割",
     subtitle: "保存単独・管理は持分過半数・変更は全員同意・不分割特約",
     difficulty: "応用",
@@ -2600,7 +2600,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-67",
-    category: "民法",
+    category: "権利関係",
     title: "地役権・占有権",
     subtitle: "要役地と承役地・付従性・占有訴権の3種類",
     difficulty: "基本",
@@ -2617,7 +2617,7 @@ export const THEMES: Theme[] = [
   // ── 原状回復ガイドライン（国土交通省）──
   {
     id: "minpo-68",
-    category: "民法",
+    category: "権利関係",
     title: "原状回復の定義と負担区分（国交省ガイドライン）",
     subtitle: "経年変化・通常損耗は賃貸人負担・故意過失等は賃借人負担",
     difficulty: "基本",
@@ -2636,7 +2636,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-69",
-    category: "民法",
+    category: "権利関係",
     title: "原状回復の経過年数と負担範囲（国交省ガイドライン）",
     subtitle: "減価償却による負担軽減・経過年数を考慮しない場合・補修範囲",
     difficulty: "応用",
@@ -2654,7 +2654,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "minpo-70",
-    category: "民法",
+    category: "権利関係",
     title: "原状回復特約の有効要件（国交省ガイドライン・判例）",
     subtitle: "通常損耗補修特約が認められる3要件・消費者契約法との関係",
     difficulty: "応用",
@@ -2821,7 +2821,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "kubunshoyu-01",
-    category: "民法等",
+    category: "法令上の制限",
     title: "専有部分・共用部分・敷地利用権の基本",
     subtitle: "区分所有法の用語と一体処分の原則",
     difficulty: "基礎",
@@ -2838,7 +2838,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kubunshoyu-02",
-    category: "民法等",
+    category: "権利関係",
     title: "集会の決議要件の比較",
     subtitle: "過半数・3/4・4/5の使い分け",
     difficulty: "応用",
@@ -2855,7 +2855,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kubunshoyu-03",
-    category: "民法等",
+    category: "権利関係",
     title: "義務違反者への措置・規約の保管と閲覧",
     subtitle: "停止請求・使用禁止・競売と規約管理",
     difficulty: "応用",
@@ -3317,7 +3317,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "zeikin-01",
-    category: "その他関連知識",
+    category: "税その他",
     title: "不動産取得税の基本：課税主体・客体・非課税",
     subtitle: "道府県税・取得の定義・非課税の範囲",
     difficulty: "基礎",
@@ -3334,7 +3334,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-02",
-    category: "その他関連知識",
+    category: "税その他",
     title: "不動産取得税の課税標準・免税点・税率",
     subtitle: "固定資産課税台帳価格・各種特例の数字を覚える",
     difficulty: "応用",
@@ -3351,7 +3351,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-03",
-    category: "その他関連知識",
+    category: "税その他",
     title: "固定資産税の基本：課税主体・納税義務者・非課税・免税点",
     subtitle: "市町村税・1月1日現在の所有者・免税点の数字",
     difficulty: "基礎",
@@ -3370,7 +3370,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-04",
-    category: "その他関連知識",
+    category: "税その他",
     title: "固定資産税の課税標準・税率・新築住宅の税額減額特例",
     subtitle: "住宅用地の特例・評価替え・税額減額の要件",
     difficulty: "応用",
@@ -3388,7 +3388,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-05",
-    category: "その他関連知識",
+    category: "税その他",
     title: "所得税：譲渡所得の算定・短期と長期の区別",
     subtitle: "課税主体・所有期間の基準日・税率の違い",
     difficulty: "基礎",
@@ -3406,7 +3406,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-06",
-    category: "その他関連知識",
+    category: "税その他",
     title: "所得税の特別控除：収用5,000万円・居住用3,000万円",
     subtitle: "適用要件・適用除外・年間上限5,000万円",
     difficulty: "応用",
@@ -3424,7 +3424,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-07",
-    category: "その他関連知識",
+    category: "税その他",
     title: "所得税の軽減税率・買換え特例・特例の適用関係",
     subtitle: "併用可・選択適用の組み合わせを整理する",
     difficulty: "発展",
@@ -3442,7 +3442,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-08",
-    category: "その他関連知識",
+    category: "税その他",
     title: "印紙税：課税文書・非課税・納付・過怠税",
     subtitle: "記載金額の判定・消印・過怠税の倍率",
     difficulty: "応用",
@@ -3461,7 +3461,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "zeikin-09",
-    category: "その他関連知識",
+    category: "税その他",
     title: "登録免許税：課税標準・税率・建物の特例",
     subtitle: "本則と特例の比較・適用要件の数字",
     difficulty: "応用",
@@ -3484,7 +3484,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "touki-01",
-    category: "民法等",
+    category: "権利関係",
     title: "登記記録の構成：表題部と権利部",
     subtitle: "一不動産一登記記録・甲区乙区・対抗力の有無",
     difficulty: "基礎",
@@ -3503,7 +3503,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "touki-02",
-    category: "民法等",
+    category: "権利関係",
     title: "登記の公開：登記事項証明書・登記事項要約書",
     subtitle: "誰でも請求可能・郵送・オンライン・附属書類の閲覧",
     difficulty: "基礎",
@@ -3522,7 +3522,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "touki-03",
-    category: "民法等",
+    category: "権利関係",
     title: "登記手続の原則と例外：申請主義・共同申請",
     subtitle: "職権登記・申請義務・単独申請できる場合",
     difficulty: "応用",
@@ -3540,7 +3540,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "touki-04",
-    category: "民法等",
+    category: "権利関係",
     title: "仮登記の目的・効果・本登記への改め",
     subtitle: "1号仮登記・2号仮登記・順位保全・承諾の必要",
     difficulty: "応用",
@@ -3559,7 +3559,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "touki-05",
-    category: "民法等",
+    category: "権利関係",
     title: "土地の合筆登記・分筆登記",
     subtitle: "合筆できない場合・職権による分筆",
     difficulty: "応用",
@@ -3579,7 +3579,7 @@ export const THEMES: Theme[] = [
 
   {
     id: "kubunshoyu-04",
-    category: "民法等",
+    category: "権利関係",
     title: "管理組合・管理者の権限と集会の招集",
     subtitle: "管理組合の成立・管理者の選任解任・招集手続",
     difficulty: "基礎",
@@ -3599,7 +3599,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kubunshoyu-05",
-    category: "民法等",
+    category: "権利関係",
     title: "規約の設定・変更・廃止と効力の範囲",
     subtitle: "3/4特別決議・原始規約・承継人・占有者への効力",
     difficulty: "応用",
@@ -3618,7 +3618,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kubunshoyu-06",
-    category: "民法等",
+    category: "権利関係",
     title: "復旧・建替え等の決議要件",
     subtitle: "小規模滅失・大規模滅失・建替え4/5・緩和事由3/4",
     difficulty: "発展",
@@ -3635,7 +3635,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kubunshoyu-07",
-    category: "民法等",
+    category: "権利関係",
     title: "区分建物の登記",
     subtitle: "一棟全体の表題部・規約共用部分の登記・所有権保存",
     difficulty: "基礎",
@@ -3656,7 +3656,7 @@ export const THEMES: Theme[] = [
   // ============================================================
   {
     id: "kantei-01",
-    category: "その他関連知識",
+    category: "税その他",
     title: "不動産鑑定評価の3方式と価格の種類",
     subtitle: "原価法・取引事例比較法・収益還元法・正常価格等",
     difficulty: "基礎",
@@ -3676,7 +3676,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kantei-02",
-    category: "その他関連知識",
+    category: "税その他",
     title: "取引事例比較法の注意点・事例の収集選択",
     subtitle: "事情補正・時点修正・投機的取引はNG",
     difficulty: "応用",
@@ -3693,7 +3693,7 @@ export const THEMES: Theme[] = [
   },
   {
     id: "kantei-03",
-    category: "その他関連知識",
+    category: "税その他",
     title: "地価公示法：公示価格の効力",
     subtitle: "標準地・一般取引は指標・鑑定評価等は規準",
     difficulty: "基礎",
